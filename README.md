@@ -4,4 +4,4 @@ commands to follow:
 - terraform init
 - terraform validate
 - terraform plan
-= terraform apply --auto-approve
+- terraform apply --auto-approve
